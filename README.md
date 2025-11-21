@@ -26,5 +26,3 @@ The project demonstrates the integration of a **Flutter** frontend with a custom
 * **Backend:** Native PHP (No frameworks used)
 * **Database:** MySQL / MariaDB (via XAMPP)
 * **Architecture:** MVC Pattern (Model-View-Controller)
-
-## 📂 Project Structure
