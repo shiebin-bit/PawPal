@@ -1,11 +1,11 @@
-# PawPal - Pet Adoption Application (Assignment 2)
+# PawPal(Assignment 2)
 
 **Course:** STTGK3013 - Mobile Web Development  
 **Assignment:** Assignment 2 - User Authentication Module  
 
 ## 📖 Project Overview
 PawPal is a mobile platform.
-This repository contains the source code for the **User Authentication Module**, which handles secure user sign-up, login, and session management.
+This repository contains the source code for the **User Authentication Module**, which handles secure user sign-up, login and session management.
 
 The project demonstrates the integration of a **Flutter** frontend with a custom **PHP/MySQL** backend REST API.
 
