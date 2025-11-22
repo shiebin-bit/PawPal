@@ -46,7 +46,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
                   Padding(
                     padding: const EdgeInsets.all(16.0),
                     child: Image.asset(
-                      'assets/images/assignment_2.jpeg',
+                      'assets/images/assignment2.png',
                       scale: 4.5,
                     ),
                   ),
@@ -164,6 +164,7 @@ class _RegisterScreenState extends State<RegisterScreen> {
       ScaffoldMessenger.of(context).showSnackBar(snackBar);
       return;
     }
+
     if (password != confirmPassword) {
       SnackBar snackBar = const SnackBar(
         content: Text('Passwords do not match'),

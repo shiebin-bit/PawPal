@@ -1,4 +1,4 @@
-# PawPal(Assignment 2)
+# PawPal - Pet Adaption and Donation Application (Assignment 2)
 
 **Course:** STTGK3013 - Mobile Web Development  
 **Assignment:** Assignment 2 - User Authentication Module  
